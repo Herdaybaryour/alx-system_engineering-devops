@@ -11,4 +11,3 @@ do
         echo $MINUTES
 	((MINUTES+=1))
     done
-    ((HOURS+=1))
